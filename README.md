@@ -24,7 +24,7 @@
 
 ## **Используемые данные:**
 
-Данные находятся в файле /datasets/toxic_comments.csv.
+Данные находятся в файле /datasets/toxic_comments.csv или https://code.s3.yandex.net/datasets/toxic_comments.csv
 
 Столбец text в нём содержит текст комментария, а toxic — целевой признак.
 
